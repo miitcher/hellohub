@@ -1,1 +1,2 @@
-print(meh)
+print("meh")
+print("hehe"
